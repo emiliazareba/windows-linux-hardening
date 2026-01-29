@@ -41,7 +41,6 @@ Celem projektu było:
 
 Wszystkie zmiany są **odwracalne** i zgodne z aktualnymi dobrymi praktykami bezpieczeństwa.
 
----
 
 ## Autorzy
 
