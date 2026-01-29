@@ -12,7 +12,6 @@ Każda metoda została:
 
 Projekt powstał w ramach zajęć i ma charakter **edukacyjny oraz praktyczny**.
 
----
 
 ## Windows – zastosowane metody hardeningu
 
@@ -22,7 +21,6 @@ Projekt powstał w ramach zajęć i ma charakter **edukacyjny oraz praktyczny**.
 4. Zmiana polityki przechowywania logów (retention, zwiększenie rozmiaru)  
 5. Identyfikacja i usuwanie mechanizmów persistence (Run keys, Scheduled Tasks, WMI, Services)
 
----
 
 ## Linux – zastosowane metody hardeningu
 
@@ -32,7 +30,6 @@ Projekt powstał w ramach zajęć i ma charakter **edukacyjny oraz praktyczny**.
 4. Polityka najmniejszych uprawnień i separacja ról użytkowników  
 5. Bezpieczne kopie zapasowe (backup, checksumy, test odtworzenia)
 
----
 
 ## Cel projektu
 
@@ -46,7 +43,7 @@ Wszystkie zmiany są **odwracalne** i zgodne z aktualnymi dobrymi praktykami bez
 
 ---
 
-## 👩‍💻 Autorzy
+## Autorzy
 
 - Emilia Zaręba  
 - Katarzyna Zieleniewska
